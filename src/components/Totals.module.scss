@@ -1,0 +1,37 @@
+.totals {
+  .title {
+    font-family: 'Open Sans';
+    font-size: 17px;
+    line-height: 24px;
+    color: var(--Monkey-Black);
+  }
+
+  .card {
+    *:nth-child(1) {
+      text-align: center;
+    }
+    *:last-child {
+      font-family: 'Open Sans';
+      font-size: 12px;
+      line-height: 20px;
+      color: var(--Monkey-Gorilla-Grey);
+    }
+  }
+
+  .num1 {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 24px;
+    color: var(--Monkey-Dark-Grey);
+  }
+
+  .num2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: var(--Monkey-Dark-Grey);
+  }
+}

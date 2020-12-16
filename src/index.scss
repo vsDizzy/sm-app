@@ -1,0 +1,31 @@
+:root {
+  --Monkey-Black: #303030;
+  --Monkey-Dark-Grey: #454444;
+  --Monkey-Gorilla-Grey: #757575;
+  --Monkey-Taupe-Grey: #e0e0e0;
+  --Monkey-Orange-Oetang: #ff8a17;
+}
+
+body {
+  background: #e5e5e5;
+}
+
+.widget {
+  background: white;
+  border-radius: 5px;
+  margin-top: 4px;
+  margin-left: 4px;
+}
+
+.block {
+  display: flex;
+
+  > * {
+    flex: 1 0 auto;
+  }
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}

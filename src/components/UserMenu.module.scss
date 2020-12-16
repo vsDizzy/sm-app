@@ -1,0 +1,15 @@
+.menu {
+  background: white;
+  padding: 0 4px;
+
+  display: flex;
+  justify-content: space-between;
+
+  font-family: 'Open Sans';
+  font-size: 13px;
+  line-height: 20px;
+
+  img {
+    vertical-align: middle;
+  }
+}

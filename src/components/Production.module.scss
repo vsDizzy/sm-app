@@ -1,0 +1,27 @@
+.prod {
+  .title {
+    font-family: 'Open Sans';
+    font-size: 17px;
+    line-height: 24px;
+    color: var(--Monkey-Black);
+  }
+
+  nav {
+    margin: 8px;
+    > div {
+      display: inline;
+      padding: 8px;
+      margin: 4px;
+      cursor: pointer;
+
+      &.active {
+        border-bottom: 2px solid var(--Monkey-Orange-Oetang);
+      }
+
+      font-family: 'Open Sans';
+      font-size: 13px;
+      line-height: 20px;
+      color: var(--Monkey-Gorilla-Grey);
+    }
+  }
+}
