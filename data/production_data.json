@@ -1,0 +1,598 @@
+{
+    "annual": [
+        {
+            "resulted_yield": 126.6372147037072,
+            "grouped_date": "2016-01-01"
+        },
+        {
+            "resulted_yield": 326.6372147037072,
+            "grouped_date": "2017-01-01"
+        },
+        {
+            "resulted_yield": 426.6372147037072,
+            "grouped_date": "2019-01-01"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2020-01-01"
+        }
+    ],
+    "monthly": [
+        {
+            "resulted_yield": 238.8805090280531,
+            "grouped_date": "2019-10-01"
+        },
+        {
+            "resulted_yield": 104.46169518330004,
+            "grouped_date": "2019-11-01"
+        },
+        {
+            "resulted_yield": 83.29501049235394,
+            "grouped_date": "2019-12-01"
+        },
+        {
+            "resulted_yield": 123.52292532055999,
+            "grouped_date": "2020-01-01"
+        },
+        {
+            "resulted_yield": 60.75321509869114,
+            "grouped_date": "2020-02-01"
+        }
+    ],
+    "weekly": [
+       {
+           "resulted_yield": 59.14387328231512,
+           "grouped_date": "2019-09-30"
+       },
+       {
+           "resulted_yield": 60.90215871405326,
+           "grouped_date": "2019-10-07"
+       },
+       {
+           "resulted_yield": 52.27040783992065,
+           "grouped_date": "2019-10-14"
+       },
+       {
+           "resulted_yield": 44.29294074571608,
+           "grouped_date": "2019-10-21"
+       },
+       {
+           "resulted_yield": 36.520336018928376,
+           "grouped_date": "2019-10-28"
+       },
+       {
+           "resulted_yield": 29.12767449867894,
+           "grouped_date": "2019-11-04"
+       },
+       {
+           "resulted_yield": 24.341272093931593,
+           "grouped_date": "2019-11-11"
+       },
+       {
+           "resulted_yield": 20.928845080115963,
+           "grouped_date": "2019-11-18"
+       },
+       {
+           "resulted_yield": 18.81203437667583,
+           "grouped_date": "2019-11-25"
+       },
+       {
+           "resulted_yield": 19.751424526108167,
+           "grouped_date": "2019-12-02"
+       },
+       {
+           "resulted_yield": 18.716925606764697,
+           "grouped_date": "2019-12-09"
+       },
+       {
+           "resulted_yield": 18.136504817880958,
+           "grouped_date": "2019-12-16"
+       },
+       {
+           "resulted_yield": 18.370150008156887,
+           "grouped_date": "2019-12-23"
+       },
+       {
+           "resulted_yield": 21.169011001533878,
+           "grouped_date": "2019-12-30"
+       },
+       {
+           "resulted_yield": 24.080931101071354,
+           "grouped_date": "2020-01-06"
+       },
+       {
+           "resulted_yield": 27.138357471733016,
+           "grouped_date": "2020-01-13"
+       },
+       {
+           "resulted_yield": 31.00362866684842,
+           "grouped_date": "2020-01-20"
+       },
+       {
+           "resulted_yield": 37.95119591818315,
+           "grouped_date": "2020-01-27"
+       },
+       {
+           "resulted_yield": 48.25568335434181,
+           "grouped_date": "2020-02-03"
+       }
+    ],
+    "daily": [
+        {
+            "resulted_yield": 10.347444847547223,
+            "grouped_date": "2019-10-01"
+        },
+        {
+            "resulted_yield": 10.115051143080438,
+            "grouped_date": "2019-10-02"
+        },
+        {
+            "resulted_yield": 9.925407017013933,
+            "grouped_date": "2019-10-03"
+        },
+        {
+            "resulted_yield": 9.75649450002935,
+            "grouped_date": "2019-10-04"
+        },
+        {
+            "resulted_yield": 9.599947013526132,
+            "grouped_date": "2019-10-05"
+        },
+        {
+            "resulted_yield": 9.39952876111805,
+            "grouped_date": "2019-10-06"
+        },
+        {
+            "resulted_yield": 9.242181967496713,
+            "grouped_date": "2019-10-07"
+        },
+        {
+            "resulted_yield": 9.054776077018305,
+            "grouped_date": "2019-10-08"
+        },
+        {
+            "resulted_yield": 8.874725248384623,
+            "grouped_date": "2019-10-09"
+        },
+        {
+            "resulted_yield": 8.711571378472042,
+            "grouped_date": "2019-10-10"
+        },
+        {
+            "resulted_yield": 8.515217706994832,
+            "grouped_date": "2019-10-11"
+        },
+        {
+            "resulted_yield": 8.330998954195975,
+            "grouped_date": "2019-10-12"
+        },
+        {
+            "resulted_yield": 8.172687381490764,
+            "grouped_date": "2019-10-13"
+        },
+        {
+            "resulted_yield": 7.983022881154048,
+            "grouped_date": "2019-10-14"
+        },
+        {
+            "resulted_yield": 7.796297399019829,
+            "grouped_date": "2019-10-15"
+        },
+        {
+            "resulted_yield": 7.617773465926873,
+            "grouped_date": "2019-10-16"
+        },
+        {
+            "resulted_yield": 7.4700401809185255,
+            "grouped_date": "2019-10-17"
+        },
+        {
+            "resulted_yield": 7.304255677409262,
+            "grouped_date": "2019-10-18"
+        },
+        {
+            "resulted_yield": 7.137172042551513,
+            "grouped_date": "2019-10-19"
+        },
+        {
+            "resulted_yield": 6.961846192940598,
+            "grouped_date": "2019-10-20"
+        },
+        {
+            "resulted_yield": 6.803693623036726,
+            "grouped_date": "2019-10-21"
+        },
+        {
+            "resulted_yield": 6.648869985561236,
+            "grouped_date": "2019-10-22"
+        },
+        {
+            "resulted_yield": 6.482457403573752,
+            "grouped_date": "2019-10-23"
+        },
+        {
+            "resulted_yield": 6.314777503590196,
+            "grouped_date": "2019-10-24"
+        },
+        {
+            "resulted_yield": 6.160689610948707,
+            "grouped_date": "2019-10-25"
+        },
+        {
+            "resulted_yield": 6.021396590097544,
+            "grouped_date": "2019-10-26"
+        },
+        {
+            "resulted_yield": 5.861056028907915,
+            "grouped_date": "2019-10-27"
+        },
+        {
+            "resulted_yield": 5.745155623307472,
+            "grouped_date": "2019-10-28"
+        },
+        {
+            "resulted_yield": 5.6374855687849275,
+            "grouped_date": "2019-10-29"
+        },
+        {
+            "resulted_yield": 5.502365608774849,
+            "grouped_date": "2019-10-30"
+        },
+        {
+            "resulted_yield": 5.386121645180701,
+            "grouped_date": "2019-10-31"
+        },
+        {
+            "resulted_yield": 4.8955502697180675,
+            "grouped_date": "2019-11-01"
+        },
+        {
+            "resulted_yield": 4.746281856094478,
+            "grouped_date": "2019-11-02"
+        },
+        {
+            "resulted_yield": 4.607375447067884,
+            "grouped_date": "2019-11-03"
+        },
+        {
+            "resulted_yield": 4.491831208322256,
+            "grouped_date": "2019-11-04"
+        },
+        {
+            "resulted_yield": 4.3783584026971205,
+            "grouped_date": "2019-11-05"
+        },
+        {
+            "resulted_yield": 4.286133260666333,
+            "grouped_date": "2019-11-06"
+        },
+        {
+            "resulted_yield": 4.171351672853715,
+            "grouped_date": "2019-11-07"
+        },
+        {
+            "resulted_yield": 4.045885707054895,
+            "grouped_date": "2019-11-08"
+        },
+        {
+            "resulted_yield": 3.927744545302525,
+            "grouped_date": "2019-11-09"
+        },
+        {
+            "resulted_yield": 3.8263697017820957,
+            "grouped_date": "2019-11-10"
+        },
+        {
+            "resulted_yield": 3.7325241273388845,
+            "grouped_date": "2019-11-11"
+        },
+        {
+            "resulted_yield": 3.628415846119518,
+            "grouped_date": "2019-11-12"
+        },
+        {
+            "resulted_yield": 3.5524903583782814,
+            "grouped_date": "2019-11-13"
+        },
+        {
+            "resulted_yield": 3.4600886491348954,
+            "grouped_date": "2019-11-14"
+        },
+        {
+            "resulted_yield": 3.3707018018355046,
+            "grouped_date": "2019-11-15"
+        },
+        {
+            "resulted_yield": 3.322184200454732,
+            "grouped_date": "2019-11-16"
+        },
+        {
+            "resulted_yield": 3.2748671106697778,
+            "grouped_date": "2019-11-17"
+        },
+        {
+            "resulted_yield": 3.2122740859629397,
+            "grouped_date": "2019-11-18"
+        },
+        {
+            "resulted_yield": 3.1206509511289457,
+            "grouped_date": "2019-11-19"
+        },
+        {
+            "resulted_yield": 3.0501425406248868,
+            "grouped_date": "2019-11-20"
+        },
+        {
+            "resulted_yield": 2.9876387454990994,
+            "grouped_date": "2019-11-21"
+        },
+        {
+            "resulted_yield": 2.915067454249678,
+            "grouped_date": "2019-11-22"
+        },
+        {
+            "resulted_yield": 2.8469196977454816,
+            "grouped_date": "2019-11-23"
+        },
+        {
+            "resulted_yield": 2.7961516049049333,
+            "grouped_date": "2019-11-24"
+        },
+        {
+            "resulted_yield": 2.738090046892021,
+            "grouped_date": "2019-11-25"
+        },
+        {
+            "resulted_yield": 2.697275374823445,
+            "grouped_date": "2019-11-26"
+        },
+        {
+            "resulted_yield": 2.665403939222425,
+            "grouped_date": "2019-11-27"
+        },
+        {
+            "resulted_yield": 2.624511966811188,
+            "grouped_date": "2019-11-28"
+        },
+        {
+            "resulted_yield": 2.56410681955376,
+            "grouped_date": "2019-11-29"
+        },
+        {
+            "resulted_yield": 2.525307790390262,
+            "grouped_date": "2019-11-30"
+        },
+        {
+            "resulted_yield": 2.997338438982728,
+            "grouped_date": "2019-12-01"
+        },
+        {
+            "resulted_yield": 2.9287945696254796,
+            "grouped_date": "2019-12-02"
+        },
+        {
+            "resulted_yield": 2.891206860052279,
+            "grouped_date": "2019-12-03"
+        },
+        {
+            "resulted_yield": 2.859127799616653,
+            "grouped_date": "2019-12-04"
+        },
+        {
+            "resulted_yield": 2.8126008174102064,
+            "grouped_date": "2019-12-05"
+        },
+        {
+            "resulted_yield": 2.77448757875741,
+            "grouped_date": "2019-12-06"
+        },
+        {
+            "resulted_yield": 2.7503845198528025,
+            "grouped_date": "2019-12-07"
+        },
+        {
+            "resulted_yield": 2.7348223807933376,
+            "grouped_date": "2019-12-08"
+        },
+        {
+            "resulted_yield": 2.7215258948153127,
+            "grouped_date": "2019-12-09"
+        },
+        {
+            "resulted_yield": 2.6937480231364574,
+            "grouped_date": "2019-12-10"
+        },
+        {
+            "resulted_yield": 2.6896612085545972,
+            "grouped_date": "2019-12-11"
+        },
+        {
+            "resulted_yield": 2.677389790708507,
+            "grouped_date": "2019-12-12"
+        },
+        {
+            "resulted_yield": 2.665066069901974,
+            "grouped_date": "2019-12-13"
+        },
+        {
+            "resulted_yield": 2.644463002067411,
+            "grouped_date": "2019-12-14"
+        },
+        {
+            "resulted_yield": 2.625071617580439,
+            "grouped_date": "2019-12-15"
+        },
+        {
+            "resulted_yield": 2.611120025332923,
+            "grouped_date": "2019-12-16"
+        },
+        {
+            "resulted_yield": 2.598142657999435,
+            "grouped_date": "2019-12-17"
+        },
+        {
+            "resulted_yield": 2.596510604406652,
+            "grouped_date": "2019-12-18"
+        },
+        {
+            "resulted_yield": 2.6017116573509136,
+            "grouped_date": "2019-12-19"
+        },
+        {
+            "resulted_yield": 2.5881080131990313,
+            "grouped_date": "2019-12-20"
+        },
+        {
+            "resulted_yield": 2.569054187723193,
+            "grouped_date": "2019-12-21"
+        },
+        {
+            "resulted_yield": 2.5718576718688104,
+            "grouped_date": "2019-12-22"
+        },
+        {
+            "resulted_yield": 2.585820400867716,
+            "grouped_date": "2019-12-23"
+        },
+        {
+            "resulted_yield": 2.5940955246819946,
+            "grouped_date": "2019-12-24"
+        },
+        {
+            "resulted_yield": 2.622978109203959,
+            "grouped_date": "2019-12-25"
+        },
+        {
+            "resulted_yield": 2.6290876349165084,
+            "grouped_date": "2019-12-26"
+        },
+        {
+            "resulted_yield": 2.64211986623775,
+            "grouped_date": "2019-12-27"
+        },
+        {
+            "resulted_yield": 2.6502299412469306,
+            "grouped_date": "2019-12-28"
+        },
+        {
+            "resulted_yield": 2.6458185310020284,
+            "grouped_date": "2019-12-29"
+        },
+        {
+            "resulted_yield": 2.6581347793741927,
+            "grouped_date": "2019-12-30"
+        },
+        {
+            "resulted_yield": 2.6645323150862987,
+            "grouped_date": "2019-12-31"
+        },
+        {
+            "resulted_yield": 3.1176318250239325,
+            "grouped_date": "2020-01-01"
+        },
+        {
+            "resulted_yield": 3.1268064997969787,
+            "grouped_date": "2020-01-02"
+        },
+        {
+            "resulted_yield": 3.1753126103945837,
+            "grouped_date": "2020-01-03"
+        },
+        {
+            "resulted_yield": 3.1983781615944373,
+            "grouped_date": "2020-01-04"
+        },
+        {
+            "resulted_yield": 3.2282148102634523,
+            "grouped_date": "2020-01-05"
+        },
+        {
+            "resulted_yield": 3.2868327134862607,
+            "grouped_date": "2020-01-06"
+        },
+        {
+            "resulted_yield": 3.3319988384414314,
+            "grouped_date": "2020-01-07"
+        },
+        {
+            "resulted_yield": 3.3875935587924317,
+            "grouped_date": "2020-01-08"
+        }
+        
+    ],
+    "hourly": [
+        {
+            "resulted_yield": 426.6372147037072,
+            "grouped_date": "2019-01-01T08:00"
+        },
+        {
+            "resulted_yield": 50.27614041925113,
+            "grouped_date": "2019-01-01T09:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T10:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T11:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T12:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T13:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T14:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T15:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T16:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T17:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T18:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T19:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T20:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T21:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T22:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-01T23:00"
+        },
+        {
+            "resulted_yield": 184.27614041925113,
+            "grouped_date": "2019-01-02T00:00"
+        },
+        {
+            "resulted_yield": 206.6372147037072,
+            "grouped_date": "2019-01-01T07:00"
+        }
+    ]
+    
+}
